@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-08-22 17:29:35",
+  "last_updated": "2025-08-22 17:34:13",
   "description": "Modbus配置工具许可证文件",
   "authorized_machines": [
     {
@@ -15,6 +15,15 @@
     {
       "machine_code": "1B4C-8436-7754-156A-E03B-0549-A15A-190C",
       "user_info": "张",
+      "license_type": "permanent",
+      "expiry_date": "2099-12-31",
+      "status": "active",
+      "authorized_date": "2025-08-22",
+      "notes": ""
+    },
+    {
+      "machine_code": "C509-BD83-2482-63F6-8888-57E0-8AC5-D3EF",
+      "user_info": "jia",
       "license_type": "permanent",
       "expiry_date": "2099-12-31",
       "status": "active",
