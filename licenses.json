@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-08-22 11:34:38",
+  "last_updated": "2025-08-22 13:50:50",
   "description": "Modbus配置工具许可证文件",
   "authorized_machines": [
     {
@@ -17,7 +17,7 @@
       "user_info": "romong",
       "license_type": "permanent",
       "expiry_date": "2099-12-31",
-      "status": "suspended",
+      "status": "active",
       "authorized_date": "2025-08-22",
       "notes": "修复后的机器码"
     }
