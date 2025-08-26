@@ -1,28 +1,25 @@
 {
   "version": "1.0",
-  "last_updated": "2025-08-26 09:01:12",
+  "last_updated": "2025-08-26 10:43:56",
   "description": "Modbus配置工具许可证文件",
   "authorized_machines": [
     {
-      "machine_code": "3DF3-8ADE-8B6E-389C-F9C0-34F9-C2E7-6D29",
-      "user_info": "bj",
-      "license_type": "permanent",
-      "expiry_date": "2099-12-31",
-      "status": "active",
-      "authorized_date": "2025-08-24",
-      "notes": ""
-    },
-    {
-      "version": "2.0",
-      "machine_code": "27A2-39CE-43F0-FC4D-A0C2-A876-E1BE-2155",
-      "user_info": "未填写",
+      "machine_code": "TEST-1111-2222-3333-4444-5555-6666-7777",
+      "user_info": "自动保存测试用户",
       "license_type": "permanent",
       "expiry_date": "2099-12-31",
       "status": "active",
       "authorized_date": "2025-08-26",
-      "registration_code": "TRZUEl4aAVEiUxkBDyAgTAdScgROfiVWdEkgUXYKGnUMBANJfVByIx8KAgxTQBUTURFfQQpTCggdCFRLVgUaTRRAGwpVDwZQUlINBAVbSUNFQw4WURZWQE0=",
-      "hardware_hash": "643d158b236445c4",
-      "notes": "通过注册码生成器创建"
+      "notes": "测试自动保存功能"
+    },
+    {
+      "machine_code": "6D69-AC76-C3B4-2CE6-E3A7-BC35-016B-8301",
+      "user_info": "112",
+      "license_type": "permanent",
+      "expiry_date": "2099-12-31",
+      "status": "active",
+      "authorized_date": "2025-08-26",
+      "notes": ""
     }
   ]
 }
