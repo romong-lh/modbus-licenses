@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2025-08-27 09:24:43",
+  "last_updated": "2025-08-27 09:26:21",
   "description": "Modbus配置工具许可证文件",
   "authorized_machines": [
     {
@@ -44,7 +44,7 @@
       "user_info": "办公室电脑",
       "license_type": "permanent",
       "expiry_date": "2099-12-31",
-      "status": "active",
+      "status": "revoked",
       "authorized_date": "2025-08-26",
       "notes": ""
     }
