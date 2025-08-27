@@ -18,9 +18,10 @@
         "machine_code": "6D69-AC76-C3B4-2CE6-E3A7-BC35-016B-8301",
         "user_info": "办公室电脑",
         "license_type": "permanent",
+        "created_date": "2025-08-27",
         "expiry_date": "2025-09-19",
         "status": "active",
-        "authorized_date": "2025-08-26",
+        "registration_code": "",
         "notes": "云端同步更新"
       },
       {
@@ -64,6 +65,6 @@
       }
     ]
   },
-  "sync_time": "2025-08-27 21:54:26",
+  "sync_time": "2025-08-27 21:56:49",
   "version": "1.0"
 }
