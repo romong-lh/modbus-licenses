@@ -1,7 +1,7 @@
 {
   "licenses": {
     "version": "1.0",
-    "last_updated": "2025-08-27 22:50:25",
+    "last_updated": "2025-08-27 22:56:06",
     "description": "Modbus配置工具许可证文件",
     "authorized_machines": [
       {
@@ -16,6 +16,6 @@
       }
     ]
   },
-  "sync_time": "2025-08-27 22:53:11",
+  "sync_time": "2025-08-27 22:57:46",
   "version": "1.0"
 }
